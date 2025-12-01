@@ -1,0 +1,20 @@
+# Flutter/Dart specific
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.packages
+.metadata
+# Build output
+build/
+ios/Flutter/App.framework
+ios/Flutter/App.framework.dSYM
+android/app/build/
+# Generated files
+**/generated_plugin_registrant.dart
+# Editor specific
+.idea/
+.vscode/
+*.iml
+# OS generated files
+.DS_Store
+Thumbs.db
